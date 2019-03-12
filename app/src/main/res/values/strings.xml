@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GpsTracker</string>
+    <string name="warning">Warning</string>
+    <string name="location_explanation">Please allow app to use location to show nearby friends</string>
+    <string name="ok">Ok</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key" translatable="false">AIzaSyAeUfH1YfONv93j7-w_s8h9pA9NDQFkzv4</string>
+</resources>
